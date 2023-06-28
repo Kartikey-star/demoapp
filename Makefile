@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := default
 
-IMAGE ?= quay.io/bmuthuka/demoapp:latest
+IMAGE ?= quay.io/kmamgain/demoapp:latest
 
 export DOCKER_CLI_EXPERIMENTAL=enabled
 
